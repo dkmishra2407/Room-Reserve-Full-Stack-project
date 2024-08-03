@@ -1,1 +1,5 @@
 ![PIC 1](https://github.com/dkmishra2407/Room-Reserve-Full-Stack-project/blob/main/screenshots/Screenshot%202024-08-03%20030946.png)
+![PIC 2](https://github.com/dkmishra2407/Room-Reserve-Full-Stack-project/blob/main/screenshots/Screenshot%202024-08-03%20031010.png)
+![pic3](https://github.com/dkmishra2407/Room-Reserve-Full-Stack-project/blob/main/screenshots/Screenshot%202024-08-03%20031342.png)
+![pic 4](https://github.com/dkmishra2407/Room-Reserve-Full-Stack-project/blob/main/screenshots/Screenshot%202024-08-03%20031615.png)
+![PIC 5](https://github.com/dkmishra2407/Room-Reserve-Full-Stack-project/blob/main/screenshots/Screenshot%202024-08-03%20031302.png)
